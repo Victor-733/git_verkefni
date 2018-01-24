@@ -22,3 +22,6 @@ Git spurningar og svör
 
 4. 	Hvað er útgáfustýring (e.version control)?
 	Það getur verið einhverskonar hugbúnaður sem heldur utan um breytingu á skjölum, git er eitt dæmi um það.
+
+5.	Hverjir eru helstu kostir við að nota GIT?
+	Það getur verið gott að nota git út af mörgum ástæðum, ein sú helsta er sú að git getur auðveldlega búið til nýjar greinar og það er auðvelt að notast við það að gera það. svo er líka það að það er auðvelt að skipta vinnu á git því að hver einstaklingur getur unnið í sínu repository.
