@@ -28,3 +28,8 @@ Git spurningar og svör
 
 6.	Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu?
 	því meira því betra, en ekki ofgera það samt alveg því að það mun lengja vinnutímann þinn verulega. Það er gott að gera mörg commits því að þá getur þú farið aftur í efnið og breytt því, og því fleiri commits sem þú gerir því auðveldara er að finna efnið og breyta því
+
+7.	Hvað er "Working directory"?" "Staging area"?" og "Repository" í GIT?
+	Working directory: Hér ert þú að breyta verkefninu þínu og vinna í því
+	staging area: hér setur þú breytingarnar sem þú vilt að séu partur af næsta commitinu þínu
+	Git repository: hér fara commits hjá þér eftir að þú ert búinn að setja breytingarnar í staging area
