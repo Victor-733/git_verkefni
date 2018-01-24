@@ -33,3 +33,6 @@ Git spurningar og svör
 	Working directory: Hér ert þú að breyta verkefninu þínu og vinna í því
 	staging area: hér setur þú breytingarnar sem þú vilt að séu partur af næsta commitinu þínu
 	Git repository: hér fara commits hjá þér eftir að þú ert búinn að setja breytingarnar í staging area
+
+8.	Hvenær er sniðugt að nota greinar (branches)? 
+	Ef þú vilt prófa eitthvað en ekki bæta því við aðal greinina alveg strax
