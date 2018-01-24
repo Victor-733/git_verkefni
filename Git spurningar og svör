@@ -14,3 +14,8 @@ Git spurningar og svör
 	git status = sýnir stöðuna þýna
 	git diff = sýnir munin á milli commits
 	git checkout = breytir um "branch"
+
+3. Hver er munurinn á eftirfarandi git skipunum:
+	a) git diff = sýnir mun á milli commits
+	b) git diff --staged = sýnir mun á milli commits sem eru í "staged" svæðinu
+	c) git diff commit1 commit2 = sjá munin á milli 2 commits
