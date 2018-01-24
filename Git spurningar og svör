@@ -6,3 +6,11 @@ Git spurningar og svör
 	ls = prenta út "allt" sem er í möppunni
 	pwd = prenta hvar þú ert núna
 	mkdir = býr til möppu
+
+
+2. Hvað gera eftirfarandi git skipanir og hvers vegna eru þær gagnlegar?
+	git clone = copy-ar repository 
+	git log  = sýnir commit history
+	git status = sýnir stöðuna þýna
+	git diff = sýnir munin á milli commits
+	git checkout = breytir um "branch"
