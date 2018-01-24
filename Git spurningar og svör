@@ -19,3 +19,6 @@ Git spurningar og svör
 	a) git diff = sýnir mun á milli commits
 	b) git diff --staged = sýnir mun á milli commits sem eru í "staged" svæðinu
 	c) git diff commit1 commit2 = sjá munin á milli 2 commits
+
+4. 	Hvað er útgáfustýring (e.version control)?
+	Það getur verið einhverskonar hugbúnaður sem heldur utan um breytingu á skjölum, git er eitt dæmi um það.
